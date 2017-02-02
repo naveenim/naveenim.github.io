@@ -3,17 +3,18 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+MS (Business Analytics) Student
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+<!--  `1990 - 1994` -->
+`2017`
+__George Washington University__
+Master of Science (Business Analytics)
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`1999`
+__Bharathiar University__
+Bachelor of Engineering (Computer Science)
 
 ## Awards
 
