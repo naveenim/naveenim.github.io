@@ -10,10 +10,12 @@ MS (Business Analytics) Student
 <!--  `1990 - 1994` -->
 `2017`
 __George Washington University__
+
 Master of Science (Business Analytics)
 
 `1999`
 __Bharathiar University__
+
 Bachelor of Engineering (Computer Science)
 
 ## Awards
